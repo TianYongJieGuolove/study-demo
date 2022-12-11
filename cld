@@ -1,0 +1,17 @@
+[33mcommit be3a9cf3e22eb54d494565ce3d4d90f7c28dd326[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yongjie tian <t2028000599@163.com>
+Date:   Thu Dec 8 20:11:53 2022 +0800
+
+    git项目学习
+
+[1mdiff --git a/1-git.js b/1-git.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..90e8a57[m
+[1m--- /dev/null[m
+[1m+++ b/1-git.js[m
+[36m@@ -0,0 +1,4 @@[m
+[32m+[m[32m//git init 初始化一个git项目。[m
+[32m+[m[32m//git status 查看当前git版本库的内容。[m
+[32m+[m[32m//git add   将文件添加到git里面。[m
+[32m+[m[32m//git add . 将所有文件添加到git里面。[m
+\ No newline at end of file[m
