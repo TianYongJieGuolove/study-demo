@@ -14,3 +14,7 @@
 //git store --stage index.html 再暂存区撤销修改,还没有进行提交。
 //git reset --soft HEAD^  撤销当前版本库的提交。撤销上一次的版本库提交。
 //git reflog 查看当前所有的操作。
+//git rm ./src/a.js文件夹被删除了，第一个方法版本回滚，第二个彻底删除。
+//
+//
+// git remote add origin https://github.com/TianYongJieGuolove/study-demo.git
